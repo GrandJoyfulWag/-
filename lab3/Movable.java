@@ -6,4 +6,3 @@ public interface Movable {
     public void moveLeft();
     public void moveRight();
 }
-//Eto CHOBA APTEM ПETPOB
