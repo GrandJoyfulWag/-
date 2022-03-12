@@ -36,3 +36,4 @@ public class Circle extends Shape
         return "Shape: circle, radius: "+this.radius+", color: "+this.color;
     }
 }
+//Artem Petrov 
